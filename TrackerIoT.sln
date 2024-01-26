@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackerIoT", "TrackerIoT\TrackerIoT.csproj", "{268D49D8-177B-4280-96B7-AC72919D8BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{268D49D8-177B-4280-96B7-AC72919D8BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268D49D8-177B-4280-96B7-AC72919D8BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268D49D8-177B-4280-96B7-AC72919D8BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268D49D8-177B-4280-96B7-AC72919D8BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BACC56D-31B3-4F4D-A557-7573D65F996C}
+	EndGlobalSection
+EndGlobal
